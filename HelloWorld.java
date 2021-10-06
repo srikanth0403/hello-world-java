@@ -34,7 +34,4 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-   System.out.println("Hai hello")
- System.out.println("Hai hello"
-  } System.out.println("Hai hello"
- System.out.println("Hai hello"
+   System.out.println("Hai hello");
